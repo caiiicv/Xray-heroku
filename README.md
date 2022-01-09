@@ -23,4 +23,4 @@ Vless & Vmess:
 > We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.
 
 请Fork一下仓库，然后在自己的仓库下点击。
-/share233/index.html
+**share233/index.html**
